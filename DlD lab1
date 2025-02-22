@@ -1,1 +1,125 @@
 
+Here is a more detailed serial-wise list of the apparatus with **3-4 lines of detail** for each item, all in **one paragraph per item**:
+
+---
+
+### **1. LAB Introduction**
+- **File Name:** LL_page-0001.jpg  
+- **Details:**  
+  This file introduces the lab session for the course **CSE_2324**, focusing on digital logic design. The course teacher is **Mujibur Rahman Maruf**, and the lab aims to provide hands-on experience with basic digital logic concepts. The introduction sets the foundation for understanding the experiments and tools used in the lab.
+
+---
+
+### **2. Portable Analog/Digital Laboratory Setup (AI-700)**
+- **File Name:** LL_page-0002.jpg  
+- **Details:**  
+  The AI-700 is a portable laboratory setup designed for both analog and digital experiments. It includes essential tools like a **25-pin D-type connector**, **BIT LED display**, **DVM (Digital Voltmeter)**, **DC power supply**, and **function generator**. This setup is used to build and test circuits, providing a comprehensive environment for learning and experimentation.
+
+---
+
+### **3. Breadboard Horizontal Connections**
+- **File Name:** LL_page-0003.jpg  
+- **Details:**  
+  This file illustrates the horizontal connections of a breadboard, with holes numbered from 1 to 64. The odd and even-numbered holes are horizontally connected in separate rows, allowing for easy placement of components. Understanding these connections is crucial for building and testing circuits efficiently.
+
+---
+
+### **4. Breadboard Vertical Connections**
+- **File Name:** LL_page-0004.jpg  
+- **Details:**  
+  This file highlights the vertical connections of a breadboard, where holes in the same column are connected. Vertical connections are typically used for power supply distribution and grounding. Proper use of these connections ensures a stable and organized circuit layout.
+
+---
+
+### **5. Power Switch and Indicators**
+- **File Name:** LL_page-0005.jpg  
+- **Details:**  
+  This file describes the power switch, which controls the ON/OFF state of the circuit, and includes **LED indicators** for monitoring. It also features **short circuit indicators** to alert users of any faults in the circuit. These components are essential for safe and efficient circuit operation.
+
+---
+
+### **6. DC Power Supply (Basic)**
+- **File Name:** LL_page-0006.jpg  
+- **Details:**  
+  The DC power supply provides **+V**, **+5V**, and **GND** connections for powering circuits. It includes **MIN/MAX** settings to adjust the voltage levels as needed. This tool is fundamental for supplying the necessary power to digital and analog components during experiments.
+
+---
+
+### **7. DC Power Supply (Voltage Connection)**
+- **File Name:** LL_page-0007.jpg  
+- **Details:**  
+  This file shows the voltage connection range of the DC power supply, which can be adjusted from **0V to 5V**. The **MIN/MAX** settings allow precise control over the output voltage, ensuring the correct power levels for different components. This flexibility is crucial for accurate experimentation.
+
+---
+
+### **8. 8-Bit Data Switches**
+- **File Name:** LL_page-0008.jpg  
+- **Details:**  
+  The 8-bit data switches are used to provide manual input to digital circuits. Each switch can be set to **HIGH (1)** or **LOW (0)**, representing binary input states. These switches are essential for testing and debugging digital logic circuits.
+
+---
+
+### **9. Data Switches (Logical States)**
+- **File Name:** LL_page-0009.jpg  
+- **Details:**  
+  This file explains the logical states of the data switches: when a switch is **OFF**, it provides a **LOW (0)** voltage level, and when **ON**, it provides a **HIGH (1)** voltage level. These switches are used to simulate different input conditions in digital circuits.
+
+---
+
+### **10. 8-Bit LED Display**
+- **File Name:** LL_page-0010.jpg  
+- **Details:**  
+  The 8-bit LED display is used to visualize the output of digital circuits. Each LED corresponds to a bit, lighting up for **HIGH (1)** and staying off for **LOW (0)**. This display is crucial for observing and verifying the output of logic operations.
+
+---
+
+### **11. AND Gate IC (7408)**
+- **File Name:** LL_page-0011.jpg  
+- **Details:**  
+  The **7408 IC** is a quad 2-input AND gate used in digital logic circuits. It produces a **HIGH (1)** output only when both inputs are **HIGH (1)**. This IC is fundamental for implementing AND logic in various digital applications.
+
+---
+
+### **12. Pin Diagram of 7408 IC**
+- **File Name:** LL_page-0012.jpg  
+- **Details:**  
+  This file shows the pin configuration of the **7408 IC**, including **VCC** and **GND** pins. It also lists the input and output pins for each of the four AND gates in the IC. Understanding this diagram is essential for correctly connecting the IC in circuits.
+
+---
+
+### **13. Input/Output Connections for IC**
+- **File Name:** LL_page-0013.jpg  
+- **Details:**  
+  This file describes the input and output connections for an IC (likely **7408**). It shows how to connect inputs and observe outputs for logic gate operations. Proper connection of these pins is crucial for the correct functioning of the IC.
+
+---
+
+### **14. OR Gate IC (7432)**
+- **File Name:** LL_page-0014.jpg  
+- **Details:**  
+  The **7432 IC** is a quad 2-input OR gate used in digital circuits. It produces a **HIGH (1)** output when at least one input is **HIGH (1)**. This IC is essential for implementing OR logic in various digital applications.
+
+---
+
+### **15. Pin Diagram of 7432 IC**
+- **File Name:** LL_page-0015.jpg  
+- **Details:**  
+  This file shows the pin configuration of the **7432 IC**, including **VCC** and **GND** pins. It also lists the input and output pins for each of the four OR gates in the IC. Proper understanding of this diagram is necessary for correct circuit connections.
+
+---
+
+### **16. NOT Gate IC (7404)**
+- **File Name:** LL_page-0016.jpg  
+- **Details:**  
+  The **7404 IC** is a hex NOT gate (inverter) used in digital circuits. It produces a **HIGH (1)** output when the input is **LOW (0)**, and vice versa. This IC is fundamental for implementing NOT logic in various digital applications.
+
+---
+
+### **17. Pin Diagram of 7404 IC**
+- **File Name:** LL_page-0017.jpg  
+- **Details:**  
+  This file shows the pin configuration of the **7404 IC**, including **VCC** and **GND** pins. It also lists the input and output pins for each of the six NOT gates in the IC. Proper connection of these pins is crucial for the correct functioning of the IC.
+
+---
+
+This version provides **3-4 lines of detail** for each item in a single paragraph, making it concise yet informative.
